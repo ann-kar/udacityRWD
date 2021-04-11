@@ -1,0 +1,20 @@
+.content {
+    width: 1008px;
+    margin: 0 auto;
+}
+
+.footer__list {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.nav {
+    min-height: 2em;
+}
+
+.nav__item {
+
+    line-height: 2.5em;
+    padding: initial;
+
+}

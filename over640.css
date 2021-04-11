@@ -1,0 +1,24 @@
+.header__title {
+    font-size: 3em;
+}
+
+.hero {
+    height: 100px;
+}
+
+.hero article {
+    top: 0;
+    height: 100%;
+}
+
+.top-news {
+    height: initial;
+}
+
+.scores {
+    width: 60%;
+}
+
+.weather {
+    width: 40%;
+}

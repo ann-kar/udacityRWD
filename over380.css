@@ -1,0 +1,13 @@
+.header__logo {
+    display: initial;
+}
+
+.header__title {
+    padding: initial;
+}
+
+.weather {
+    width: 380px;
+    margin: 0 auto;
+}
+
